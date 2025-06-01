@@ -1,6 +1,6 @@
 # Counter-Strike: Global Offensive Champions Match Tracker
 
-A MongoDB-based data science project by Oliver You that tracks and analyses CS:GO championship matches using web scraping and aggregation pipelines.
+A MongoDB-based data science project that tracks and analyses CS:GO championship matches using web scraping and aggregation pipelines.
 
 ---
 
